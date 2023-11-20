@@ -1,4 +1,4 @@
-# task 3 atm interface 👋
+# task 3 atm interface 
 
 <!--
 **prachi121203/prachi121203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
